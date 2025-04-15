@@ -1,1 +1,1 @@
-# SMS-spam-classifier
+A machine learning project on SMS spam classification
